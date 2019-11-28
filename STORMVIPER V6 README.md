@@ -1,4 +1,4 @@
-Changelog
+Build Changelogs
 
 Whats new in ..V6 ?
 
@@ -14,5 +14,5 @@ Whats new in ..V6 ?
 - Compatibility with all type earphones !
 - Compatible fully with v2.7 and older v2.5 variant of v4a!
 
-Support https://t.me/stormaudio
-Developer https://github.com/stormviper
+Join Community Channel:
+https://t.me/stormaudio
