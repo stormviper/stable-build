@@ -1,6 +1,6 @@
-Changelog
+Build Notes and Changes log
 
-Whats new in ..V6 ?
+#Whats new in ..V6 ?
 
 - Revamp Rename Categories to new Stage, Cinematic, Vox and Music
 - Full support DTSX Media
@@ -15,4 +15,5 @@ Whats new in ..V6 ?
 - Compatible fully with v2.7 and older v2.5 variant of v4a!
 
 Support https://t.me/stormaudio
+
 Developer https://github.com/stormviper
